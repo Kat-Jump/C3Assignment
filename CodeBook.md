@@ -7,7 +7,7 @@ To complete Coursera Course Getting and Cleaning Data Assignment
 
 ## Raw data were from:
 
- [UCI Machine Learning Repository](http://example.comhttp://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+ [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 ## Raw data description
 
