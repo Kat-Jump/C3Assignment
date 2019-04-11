@@ -1,8 +1,10 @@
 Getting and Cleaning Data Course Assignment
 =======
+Author:  Kat Jump
 
-Files in this repository
-=======
+
+## Files in this repository
+
 * README.md
 
 * CodeBook.md: the data, variables and transformations made to get this dataset
